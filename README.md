@@ -12,8 +12,7 @@ If you want to try it yourself
 just run the file "user_window" in "Exe_1" and you good to go :)
 >
 example use:
-
-![מגדלי טוויטר](https://github.com/SariHop/My_Hadsim_Progect/assets/154007325/2a6f5ca3-6d5b-47c1-9ed1-f764552af6f2)
+![alt text](https://github.com/SariHop/Hadasim_Project/blob/main/Exe_2/public/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%9C%D7%93%D7%95%D7%92%D7%9E%D7%90.png)
 ---
 >
 ## Exe 2 - Corona management system for HMO
